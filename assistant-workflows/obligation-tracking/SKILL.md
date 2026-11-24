@@ -9,7 +9,7 @@ description: "Build an obligations register from executed contracts, capturing e
 license: "Apache-2.0"
 metadata:
   version: "1.0.0"
-  author: "MikeGC"
+  author: "Legal Workflows"
   language: "English"
   mike-display-name: "Obligation Tracking"
   mike-type: "assistant"
@@ -20,7 +20,7 @@ metadata:
   source-revision: "39a806580fc5dcfd5605e564a62a5dd98855f2ca"
   source-path: "assistant-workflows/obligation-tracking"
   source-url: "https://github.com/open-legal-products/mikegc-workflows/tree/39a806580fc5dcfd5605e564a62a5dd98855f2ca/assistant-workflows/obligation-tracking"
-  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: added the Saving Key Dates section, which saves a row as a key date only after the user confirms it, through the host's deadline engine, and never creates a separate calendar. Provenance fields and notice comment added."
+  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: added the Saving Key Dates section, which saves a row as a key date only after the user confirms it, through the host's deadline engine, and never creates a separate calendar. Provenance fields and notice comment added. The displayed author is set to Legal Workflows; the original authors (MikeGC contributors) are credited in NOTICE and the source metadata."
 ---
 # Obligation Tracking
 

@@ -9,7 +9,7 @@ description: "Triage a new contract request or incoming contract: capture the ke
 license: "Apache-2.0"
 metadata:
   version: "1.0.0"
-  author: "MikeGC"
+  author: "Legal Workflows"
   language: "English"
   mike-display-name: "Contract Intake"
   mike-type: "assistant"
@@ -20,7 +20,7 @@ metadata:
   source-revision: "39a806580fc5dcfd5605e564a62a5dd98855f2ca"
   source-path: "assistant-workflows/contract-intake"
   source-url: "https://github.com/open-legal-products/mikegc-workflows/tree/39a806580fc5dcfd5605e564a62a5dd98855f2ca/assistant-workflows/contract-intake"
-  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: added the Filing the Triage section, which says the workflow needs no intake queue and may file the triage onto an open intake request only where the host offers one and the user agrees. Provenance fields and notice comment added."
+  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: added the Filing the Triage section, which says the workflow needs no intake queue and may file the triage onto an open intake request only where the host offers one and the user agrees. Provenance fields and notice comment added. The displayed author is set to Legal Workflows; the original authors (MikeGC contributors) are credited in NOTICE and the source metadata."
 ---
 # Contract Intake
 

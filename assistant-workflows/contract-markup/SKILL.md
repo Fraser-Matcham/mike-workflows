@@ -9,7 +9,7 @@ description: "Propose tracked changes and comments on an uploaded contract from 
 license: "Apache-2.0"
 metadata:
   version: "1.0.0"
-  author: "MikeGC"
+  author: "Legal Workflows"
   language: "English"
   mike-display-name: "Contract Markup"
   mike-type: "assistant"
@@ -20,7 +20,7 @@ metadata:
   source-revision: "39a806580fc5dcfd5605e564a62a5dd98855f2ca"
   source-path: "assistant-workflows/contract-markup"
   source-url: "https://github.com/open-legal-products/mikegc-workflows/tree/39a806580fc5dcfd5605e564a62a5dd98855f2ca/assistant-workflows/contract-markup"
-  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: changes are proposed as tracked changes for the user to accept or reject instead of being made directly on a file copy; the untracked-edit fallback is replaced by an edit plan that leaves the document unchanged; description and deliverable wording updated to match. Provenance fields and notice comment added."
+  source-changes: "Modified 2026-11-24 for the Legal Workflows catalogue: changes are proposed as tracked changes for the user to accept or reject instead of being made directly on a file copy; the untracked-edit fallback is replaced by an edit plan that leaves the document unchanged; description and deliverable wording updated to match. Provenance fields and notice comment added. The displayed author is set to Legal Workflows; the original authors (MikeGC contributors) are credited in NOTICE and the source metadata."
 ---
 # Contract Markup
 
