@@ -1,0 +1,32 @@
+This repository is licensed under the MIT License (see LICENSE), except where
+a more specific license or notice applies. This file records the notices for
+third-party material included in it.
+
+-------------------------------------------------------------------------------
+MikeGC Legal Workflows (Apache License, Version 2.0)
+-------------------------------------------------------------------------------
+
+The following workflows are copied from MikeGC Legal Workflows
+(https://github.com/open-legal-products/mikegc-workflows, revision
+39a806580fc5dcfd5605e564a62a5dd98855f2ca) and modified for this catalogue:
+
+  assistant-workflows/contract-intake/SKILL.md
+  assistant-workflows/contract-markup/SKILL.md
+  assistant-workflows/obligation-tracking/SKILL.md
+
+These files are licensed under the Apache License, Version 2.0, not the MIT
+License. A copy of that license is in
+third-party-licenses/mikegc-workflows-Apache-2.0.txt. Each file records its
+source and the changes made to it in its metadata (source-repository,
+source-revision, source-path, source-url and source-changes).
+
+The upstream NOTICE file contains these attribution notices, which pertain to
+the files above:
+
+  MikeGC Legal Workflows
+  Copyright 2026 MikeGC contributors
+
+  This product is licensed under the Apache License, Version 2.0. See LICENSE.
+
+("LICENSE" in that notice is the upstream repository's license file,
+reproduced here as third-party-licenses/mikegc-workflows-Apache-2.0.txt.)

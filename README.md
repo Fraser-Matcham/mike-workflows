@@ -284,3 +284,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for authoring and validation rules,
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+Workflows under a license other than MIT are listed in [NOTICE](NOTICE), with
+copies of their licenses in `third-party-licenses/`.
